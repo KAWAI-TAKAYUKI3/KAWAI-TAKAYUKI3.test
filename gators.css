@@ -1,0 +1,33 @@
+.green-box {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+}
+
+.blue-box {
+  background-color: blue;
+  width: 300px;
+  text-align: center;
+}
+
+.green-box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#release-bottun {
+  text-align: center;
+}
+
+#gator-count {
+  text-align: center;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
